@@ -247,6 +247,7 @@ README.md
 ## Video Demo
 
 1. [Full Video Demonstration](https://youtu.be/26rO_-AhsxE)
+2. [Play from Here](https://project.hsharma.info/)
 
 ## License
 
